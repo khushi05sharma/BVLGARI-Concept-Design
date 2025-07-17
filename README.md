@@ -34,7 +34,7 @@ Aiming to reflect **elegance, timelessness, and modern luxury** through clean, s
 
 ## 📁 Repo Contents
 
-- 🖼️ `preview.png` – Preview image of the design  
+- 🖼️ `bulgari.png` – Preview image of the design  
 - 📝 `README.md` – Project description & links  
 - 🔗 Figma view-only link to explore the full concept
 
